@@ -38,7 +38,6 @@
   * [1.3.1 시행지침 설계자 편의 구성](main-contents-and-roles-of-performing-subjects/designers-convenience-configuration.md)
   * [1.3.2 시행지침 설계자 편의 주요 내용](main-contents-and-roles-of-performing-subjects/main-contents-of-designer-convenience.md)
   * [1.3.3 수행 주체의 역할](main-contents-and-roles-of-performing-subjects/role-of-performing-subject.md)
-* [1.4 용어](term/README.md)
 
 ## 제2장 BIM 데이터 및 성과품 작성기준
 
