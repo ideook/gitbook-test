@@ -8,6 +8,7 @@
 * [Brand Guidelines](introduction/brand-guidelines.md)
 * [How updates work](introduction/how-updates-work.md)
 * [Accessibility](introduction/accessibility.md)
+  * [Accessibility](introduction/accessibility.md)
 
 ## identity
 
